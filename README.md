@@ -1,0 +1,8 @@
+Othello Board game
+• Used Processing, a flexible software sketchbook, to design and implement a board game called 'Reversi' with Python.
+• Designed Disk, Board, Game Controller, and Player classes.
+• Implemented classes that launched the initial set up of the board, determined whose turn it would be, as well as the ability to flip the color of disks if a valid move was selected.
+• Improved user experience by displaying which tiles were flipped, announcing the winner as well as the scores after every game, and inputting results of every game on to a leaderboard.
+• Designed a simple AI opponent to make the game more challenging.
+
+
