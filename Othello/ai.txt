@@ -1,0 +1,9 @@
+My isvalid() method was created almost exclusively to check to see what possible turns there were during a specific flag
+for instance if it was black's turn, the method would check all the possiblities that black could go based on what was on the board.
+
+This was also the case for white, and so my ai used this method a lot - Everytime it was supposed to make a move, it would select a 
+random tuple from the set that was returned from isvalid() and choose that spot on the board by using the x, y from the tuple and 
+inputting those x and y values into makevalidmove() method. 
+
+I would consider the computer already hard to beat because of it's randomness, and out of 10 games, it beat me and my friends maybe
+around 7 or 8 times. 
