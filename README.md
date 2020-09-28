@@ -1,8 +1,8 @@
 <p align="center">
   <span><strong>Othello Board Game</strong></span>
+  <br>
   <span>Project Dates: Oct 2019 - Dec 2020</span>
 </p>    
-<br>
 • Used Processing, a flexible software sketchbook, to design and implement a board game called 'Reversi' with Python.<br>    
 • Designed Disk, Board, Game Controller, and Player classes.<br>     
 • Implemented classes that launched the initial set up of the board, determined whose turn it would be, as well as the ability to flip the color of disks if a valid move was selected.<br>
